@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "uts": [
+    {
+      "nama": "Bakso",
+      "harga": "12000",
+      "stok": "2",
+      "id": "38b8"
+    },
+    {
+      "id": "eb94",
+      "nama": "Mie Ayam",
+      "harga": "10000",
+      "stok": "5"
+    },
+    {
+      "id": "bd12",
+      "nama": "Gacoan",
+      "harga": "12000",
+      "stok": "2"
+    },
+    {
+      "id": "7070",
+      "nama": "Sempol",
+      "harga": "10000",
+      "stok": "5"
+    }
+  ]
+}
